@@ -3,5 +3,6 @@ coucou
 
 # To-do list:
 
-[] Créer le dépot
-[] Modifier le fichier readme
+[x] Créer le dépot
+[x] Modifier le fichier readme
+[] Modifier d'autres trucs
