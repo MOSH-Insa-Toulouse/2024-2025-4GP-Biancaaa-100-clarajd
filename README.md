@@ -6,4 +6,4 @@ coucou
 [x] Créer le dépot
 [x] Modifier le fichier readme
 [] Modifier d'autres trucs
-blibli
+un truc
